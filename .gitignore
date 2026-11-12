@@ -1,0 +1,20 @@
+# build / publish outputs
+bin/
+obj/
+dist/
+publish/
+
+# local scratch
+_spike/
+_legacy-samples/
+
+# user visual studio / rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
